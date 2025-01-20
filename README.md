@@ -1,1 +1,3 @@
-# Digital- Music-Store-Analysis
+# Digital-Music-Store-Analysis
+
+## Project Overview
